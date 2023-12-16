@@ -4,4 +4,6 @@ https://drive.google.com/drive/folders/13uRPXdlmiZqEJprY9exHihShNtxvPY5l?usp=dri
 Link for model download, since the model is too large to upload to Github:
 https://drive.google.com/drive/folders/1ULwS3cqcUDqOCG-HBj-_lKn0FmZAGkft?usp=drive_link
 
+If both the data folder called "AI data" and "Models" is added to "My drive" then the Test_pipeline.ipynb can be run to replicate the 2D segmentation results. 
+
 
